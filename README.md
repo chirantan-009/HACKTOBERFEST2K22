@@ -3,8 +3,8 @@ This is a unique chance for people who are new to Open Source and also for those
 Contribute in your preferable folder whatever you're interested in.
 
 # PROCESS TO CONTRIBUTE
-[X] Star the repo
-[X] Create a fork
-[X] Clone the repo in your local device
-[X] Add your contribution
-[X] Create a PR
+- Star the repo
+- Create a fork
+- Clone the repo in your local device
+- Add your contribution
+- Create a PR
